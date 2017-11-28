@@ -1,27 +1,3 @@
-	::      #     #  #######                                      ::
-	:::     #     #  #        #       #    #     #     ####      :::
-	::::    #     #  #        #       #    #     #    #         ::::
-	:::::   #######  #####    #       #    #     #     ####    :::::
-	::::    #     #  #        #       #    #     #         #    ::::
-	:::     #     #  #        #        #  #      #    #    #     :::
-	::      #     #  #######  ######    ##       #     ####       ::
-
-			- a clone of vi/ex -
-			   version 1.8h2
-
-    -- HElvis 1.8h1+ -------------------
-	Author: Park Chong-Dae
-		CS Dept., KAIST, Taejon
-		305-701, Rep. of KOREA
-	E-Mail: cdpark@baram.kaist.ac.kr
-    -- Elvis 1.8pl4 --------------------
-	Author: Steve Kirkendall
-		1500 SW Park #326
-		Portland OR, 97201
-	E-Mail: kirkenda@cs.pdx.edu
-    ------------------------------------
-
-## This document is written in KSC5601 code set.
 
 0A. BUG FIX
 ===========
@@ -37,7 +13,7 @@
 =============
 + 가끔 Segmentation fault를 내고 죽습니다.
 + 가끔 입력 중 다음 줄과 하나로 붙습니다.
-  ** 정확히 이 버그가 나타나는 상황을 포착하시면 제게 메일주세요.
+  * 정확히 이 버그가 나타나는 상황을 포착하시면 제게 메일주세요.
 
 I. Intro
 ========
